@@ -1,7 +1,7 @@
 # ALLABOUTME
 My github portfolio 
 # 💫 About Me:
-🔭 Im currently working on building NLP LLM and all things AI<br>👯 im looking to collaborate all things ML/Data engineering<br>💬 Ask me about analytics and anything ETL related <br>⚡ Fun fact: I can speak 3 languages 
+🔭 Im currently working on building NLP LLM and all scala <br>👯 im looking to collaborate all things ML/Data engineering<br>💬 Ask me about analytics and anything ETL related <br>⚡ Fun fact: I collect books 
 
 
 # 💻 Tech Stack:
